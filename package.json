@@ -1,0 +1,21 @@
+{
+  "name": "gameoflife",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "serve": "nodemon index.js"
+  },
+  "keywords": [
+    "gameoflife",
+    "game",
+    "life",
+    "conway",
+    "gameoflife"
+  ],
+  "author": "WhiskeeDev <dev@whiskee.me> (https://whiskee.me)",
+  "license": "ISC",
+  "devDependencies": {
+    "colors": "^1.4.0",
+    "nodemon": "^2.0.15"
+  }
+}
