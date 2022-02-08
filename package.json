@@ -17,5 +17,8 @@
   "devDependencies": {
     "colors": "^1.4.0",
     "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "refresh-rate": "^1.0.0"
   }
 }
